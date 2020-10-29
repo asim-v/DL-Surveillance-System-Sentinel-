@@ -1,0 +1,17 @@
+Cython
+pandas>=1.0.2
+requests>=2.23.0
+psutil>=5.7.0
+dlib>=19.17.0
+Flask==0.11.1
+Flask-SocketIO==2.5
+Flask-Uploads==0.2.1
+numpy>=1.18.2
+scikit-image>=0.12.3
+scikit-learn==0.21.3
+scipy==1.1.0
+six>=1.10.0
+Werkzeug==0.16.1
+websocket-client
+apprise
+attrs==19.1.0
